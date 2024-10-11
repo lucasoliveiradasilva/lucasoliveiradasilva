@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-48489a244/)
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://lucasoliveiradasilva.itch.io)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonWyv3rn&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact)](https://github.com/lucasoliveiradasilva/github-readme-stats)
 
