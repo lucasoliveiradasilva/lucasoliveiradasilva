@@ -12,20 +12,7 @@ Se você está procurando alguém com vontade de aprender, criar e inovar, pode 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=dark&title_color=ffffff&icon_color=00FFFF&text_color=ffffff&bg_color=282a36)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical&title_color=ffffff&icon_color=ff007f&text_color=ffffff&bg_color=282a36&langs_count=5&custom_title=Most%20Used%20Languages&C%23=7D3C98&HTML=00FFFF&HLSL=FF00FF&CSS=00FF00)](https://github.com/lucasoliveiradasilva/github-readme-stats)
-
----
-
-<div style="background-color: #1b1b1b; border-radius: 8px; padding: 10px; width: 300px;">
-  <h3 style="color: #ff0099; text-align: center;">Stats</h3>
-  <ul style="list-style-type: none; padding: 0; color: #f5f5f5;">
-    <li><span style="color: #00c3e3;">🌟 Stars:</span> 120</li>
-    <li><span style="color: #f9f900;">🔧 Commits:</span> 500</li>
-    <li><span style="color: #ff006e;">🛠️ PRs:</span> 25</li>
-    <li><span style="color: #ff0099;">📊 Top Languages:</span> C#, JavaScript, Python</li>
-  </ul>
-  <div style="background-color: #ff0099; height: 5px; width: 100%; margin-top: 5px;"></div>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical&langs_count=5&hide=html&exclude_repo=github-readme-stats,github-profile-trophy,showcase)
 
 ---
 
