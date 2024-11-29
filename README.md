@@ -15,7 +15,7 @@ Autodidata, apaixonado por desenvolvimento de jogos, sempre em busca de novos de
 <div style="display: inline_block; margin-right: 5px;"><br/>
   <img align="center" alt="C#" src="https://img.icons8.com/fluency/36/c-sharp-logo.png"/>
   <img align="center" alt="C++" src="https://img.icons8.com/color/36/c-plus-plus-logo.png"/>
-  <img align="center" alt="Python" src="https://img.icons8.com/color/36/python--v1.png"/>
+  <img align="center" alt="Python" src="https://img.icons8.com/fluency/36/python.png"/>
   <img align="center" alt="Unity" src="https://img.icons8.com/fluency/36/unity.png"/>
 </div><br/>
 
