@@ -10,7 +10,7 @@ Autodidata, apaixonado por desenvolvimento de jogos, sempre em busca de novos de
 
 - ❤️ CARREGANDO...
 
-- 💬 CARREGANDO...
+- 💬 Bora trocar uma ideia! [aqui](https://www.instagram.com/luier_/#)
 
 <div style="display: inline_block; margin-right: 5px;"><br/>
   <img align="center" alt="C#" src="https://img.icons8.com/fluency/36/c-sharp-logo.png"/>
