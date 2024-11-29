@@ -1,16 +1,16 @@
 
 
-Autodidata, apaixonado por desenvolvimento de jogos, sempre em busca de novos desafios e soluções criativas.
+Autodidata, apaixonado por desenvolvimento de jogos, sempre em busca de novos desafios e soluções criativas 🪐🚀.
 
 **Sobre mim**
 
-- 🎮 CARREGANDO...
+- 🎮 Desenvolvendo mundos e experiências, um código de cada vez.
 
-- 📈 CARREGANDO...
+- 📊 Transformando dados em insights valiosos para decisões mais inteligentes.
 
-- ❤️ CARREGANDO...
+- ❤️ Trabalhando constantemente para ser a melhor versão de mim mesmo.
 
-- 💬 Bora trocar uma ideia! [aqui](https://www.instagram.com/luier_/#)
+- 💬 Se precisar de mim pode me achar [aqui](https://www.instagram.com/luier_/#)
 
 <div style="display: inline_block; margin-right: 5px;"><br/>
   <img align="center" alt="C#" src="https://img.icons8.com/fluency/36/c-sharp-logo.png"/>
