@@ -12,7 +12,7 @@ Se você está procurando alguém com vontade de aprender, criar e inovar, pode 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=dark&title_color=ffffff&icon_color=00FFFF&text_color=ffffff&bg_color=282a36)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical&title_color=ffffff&icon_color=8A2BE2&text_color=ffffff&bg_color=282a36&langs_count=5)](https://github.com/lucasoliveiradasilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical&title_color=ffffff&icon_color=ff007f&text_color=ffffff&bg_color=282a36&langs_count=5&custom_title=Most%20Used%20Languages&C%23=7D3C98&HTML=00FFFF&HLSL=FF00FF&CSS=00FF00)](https://github.com/lucasoliveiradasilva/github-readme-stats)
 
 ---
 
