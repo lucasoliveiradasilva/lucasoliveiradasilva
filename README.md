@@ -10,9 +10,9 @@ Se você está procurando alguém com vontade de aprender, criar e inovar, pode 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-48489a244/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://lucasoliveiradasilva.itch.io)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=dark&title_color=ffffff&icon_color=ff6347&text_color=ffffff&bg_color=282a36)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=dark&title_color=ffffff&icon_color=00FFFF&text_color=ffffff&bg_color=282a36)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical)](https://github.com/lucasoliveiradasilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiradasilva&layout=compact&theme=radical&title_color=ffffff&icon_color=00FFFF&text_color=ffffff&bg_color=282a36)](https://github.com/lucasoliveiradasilva/github-readme-stats)
 
 ---
 
