@@ -4,11 +4,11 @@ Autodidata, apaixonado por desenvolvimento de jogos, sempre em busca de novos de
 
 **Sobre mim**
 
-- 🎮 Desenvolvendo mundos e experiências, um código de cada vez.
+- 🎮 Desenvolvendo mundos e experiências, consertando um bug de cada vez.
 
-- 📊 Transformando dados em insights valiosos para decisões mais inteligentes.
+- 📊 Explorando soluções simples e eficientes para obter grandes resultados.
 
-- ❤️ Trabalhando constantemente para ser a melhor versão de mim mesmo.
+- 💙 Aprendendo e evoluindo todos os dias para fazer a diferença.
 
 - 💬 Se quiser trocar uma ideia pode me achar [aqui](https://www.instagram.com/luier_/#)
 
